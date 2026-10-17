@@ -10,7 +10,7 @@
     <a href="https://github.com/Saleemcrypto01">
       <img src="https://img.shields.io/badge/GitHub-Saleemcrypto01-181717?style=for-the-badge&logo=github" alt="GitHub" />
     </a>
-    <a href="https://x.com/SaleemFusami">
+    <a href="https://x.com/Saleemcrpto01">
       <img src="https://img.shields.io/badge/X-SaleemFusami-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
     <a href="https://saleemjournal.vercel.app/">
